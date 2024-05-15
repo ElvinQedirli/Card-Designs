@@ -1,5 +1,7 @@
 ## Azərbaycanca
 
+## INSTAGRAM : https://www.instagram.com/cryptonix.ig?igsh=eWlseXhqc3dkMnQz
+
 # Kart Dizaynları 🃏 🎨
 
 Bu repoda müasir və innovativ veb interfeyslər üçün 10 müxtəlif kart dizaynı var. Hər bir kart HTML və SCSS istifadə edərək kodlanmışdır.
